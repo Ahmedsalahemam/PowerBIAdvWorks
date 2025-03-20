@@ -12,3 +12,6 @@ Benefits:
 Simplified querying with optimized performance ⚡
 Clear relationships between different datasets for easy analysis 🔄
 Ready to use in Power BI for intuitive dashboards and reports 📅
+link for DataSet
+
+https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2012.bak
